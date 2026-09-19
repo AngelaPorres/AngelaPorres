@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ángela 👋
 
-<!--
-**AngelaPorres/AngelaPorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematical Engineering and Artificial Intelligence student at Universidad Pontificia Comillas – ICAI in Madrid.
 
-Here are some ideas to get you started:
+I'm interested in **Artificial Intelligence, Data Science, Machine Learning and software development**, with experience in programming, data analysis and databases through university projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- **Programming:** Python, R, C#, SQL
+- **Data & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Databases:** MySQL, MongoDB, Neo4j
+- **Tools:** Git, GitHub, Gurobi
+
+## 📚 Currently
+
+- 🎓 Studying Mathematical Engineering and Artificial Intelligence (IMAT) at Comillas ICAI
+- 📊 Developing projects in data analysis, machine learning and optimization
+- 🌱 Expanding my knowledge in AI and Data Science
+
+## 🚀 Projects
+
+I'm currently organizing and documenting my university projects. Featured projects will be added here soon.
+
+## 🌍 Languages
+
+- Spanish — Native
+- English — C1
+
+## 📫 Connect with me
+
+- LinkedIn: 
