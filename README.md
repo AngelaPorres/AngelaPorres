@@ -1,4 +1,4 @@
-# Hi, I'm Ángela 👋
+# Hi, I'm Ángela 
 
 I'm a Mathematical Engineering and Artificial Intelligence student at Universidad Pontificia Comillas – ICAI in Madrid.
 
