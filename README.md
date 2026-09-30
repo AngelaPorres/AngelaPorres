@@ -13,9 +13,9 @@ I'm interested in **Artificial Intelligence, Data Science, Machine Learning and 
 
 ## 📚 Currently
 
-- 🎓 Studying Mathematical Engineering and Artificial Intelligence (IMAT) at Comillas ICAI
-- 📊 Developing projects in data analysis, machine learning and optimization
-- 🌱 Expanding my knowledge in AI and Data Science
+- Studying Mathematical Engineering and Artificial Intelligence (IMAT) at Comillas ICAI
+- Developing projects in data analysis, machine learning and optimization
+- Expanding my knowledge in AI and Data Science
 
 ## 🚀 Projects
 
