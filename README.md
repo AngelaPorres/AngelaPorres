@@ -28,4 +28,4 @@ I'm currently organizing and documenting my university projects. Featured projec
 
 ## 📫 Connect with me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/%C3%A1ngela-porres-cobb-8aa93443a/
