@@ -29,6 +29,11 @@ Interactive dashboard for analyzing sales performance, seasonality and the impac
 
 **Technologies:** Python, Pandas, Streamlit
 
+### [Formula 1 Data Pipeline](https://github.com/AngelaPorres/formula1-data-pipeline)
+Data collection and processing pipeline combining Formula 1 race data from web scraping and APIs.
+
+**Technologies:** Python, Pandas, Requests, BeautifulSoup
+
 ## 🌍 Languages
 
 - Spanish — Native
