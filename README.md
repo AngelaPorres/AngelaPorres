@@ -19,7 +19,15 @@ I'm interested in **Artificial Intelligence, Data Science, Machine Learning and 
 
 ## 🚀 Projects
 
-I'm currently organizing and documenting my university projects. Featured projects will be added here soon.
+### [Madrid Route Planner](https://github.com/AngelaPorres/madrid-route-planner)
+Route planning application for Madrid using weighted graphs, Dijkstra's algorithm and OpenStreetMap data.
+
+**Technologies:** Python, NetworkX, OSMnx, Matplotlib
+
+### [Sales Data Dashboard](https://github.com/AngelaPorres/sales-data-dashboard)
+Interactive dashboard for analyzing sales performance, seasonality and the impact of promotions across stores and regions.
+
+**Technologies:** Python, Pandas, Streamlit
 
 ## 🌍 Languages
 
