@@ -35,4 +35,4 @@ Data collection and processing pipeline combining Formula 1 race data from web s
 
 ## 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/angela-porres-cobb/
+- LinkedIn: [https://www.linkedin.com/in/angela-porres-cobb/](https://www.linkedin.com/in/%C3%A1ngela-porres-cobb/)
