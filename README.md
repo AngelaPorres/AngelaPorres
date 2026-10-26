@@ -11,12 +11,6 @@ I'm interested in **Artificial Intelligence, Data Science, Machine Learning and 
 - **Databases:** MySQL, MongoDB, Neo4j
 - **Tools:** Git, GitHub, Gurobi
 
-## 📚 Currently
-
-- Studying Mathematical Engineering and Artificial Intelligence (IMAT) at Comillas ICAI
-- Developing projects in data analysis, machine learning and optimization
-- Expanding my knowledge in AI and Data Science
-
 ## 🚀 Projects
 
 ### [Madrid Route Planner](https://github.com/AngelaPorres/madrid-route-planner)
@@ -41,4 +35,4 @@ Data collection and processing pipeline combining Formula 1 race data from web s
 
 ## 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/%C3%A1ngela-porres-cobb-8aa93443a/
+- LinkedIn: https://www.linkedin.com/in/angela-porres-cobb/
